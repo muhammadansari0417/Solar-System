@@ -4,4 +4,4 @@
 Run dependencies.bat and then run regenerate_projects.bat. 
 After doing so please go into the bin folder to find "CSCI 4110.sln". 
 Once clicked, visual studio will open with the project. 
-Set Final Project as the startup project, and press "Local Windows Debugger", or the green play button on the top taskbar.
+Set Final Project as the startup project, and press "Local Windows Debugger", or the green play button on the top taskbar.**
